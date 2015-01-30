@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: one2one2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.test
+Build-Jdk: 1.7.0_67
+Built-By: shaojun.zheng
+Created-By: Maven Integration for Eclipse
+Main-Class: demo.One2one2Application
+
